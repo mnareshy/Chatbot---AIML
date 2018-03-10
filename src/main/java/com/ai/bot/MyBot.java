@@ -14,10 +14,9 @@ public class MyBot {
 	public static void main(String[] args) {
 		
 		
-		File f = new File("");
-		System.out.println(f.getAbsolutePath());
+		File root = new File("");
 		
-		Bot bot = new Bot("BABABot", f.getAbsolutePath()+"/src/main/"+ "resources");
+		Bot bot = new Bot("BABABot", root.getAbsolutePath()+"/src/main/"+ "resources");
 //		bot.setAllPaths("./recources", "bots");
 		
 

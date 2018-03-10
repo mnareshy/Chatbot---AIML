@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-<!-- File: testjp.aiml -->
-<!-- Author: Dr. Richard S. Wallace -->
-<!-- Last modified: March 10, 2018 -->
-<!--  -->
 <!-- This AIML file is part of the BABABOT 0.0.4 chat bot knowledge base. -->
 <!--  -->
-<!-- The BABABOT brain is Copyright &copy; 2018 by ALICE AI Foundation. -->
+<!-- The BABABOT brain is Copyright & -->
 <!--  -->
 <!-- The BABABOT brain is released under the terms of the GNU Lesser General -->
 <!-- Public License, as published by the Free Software Foundation. -->
@@ -15,10 +11,7 @@
 <!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
 <!--  -->
 <!-- For more information see http://www.alicebot.org -->
-<category><pattern>GREETINGS</pattern>
-<template>????????????????????????</template>
-</category>
-<category><pattern>?????</pattern>
-<template><srai>GREETINGS</srai></template>
+<category><pattern>NAME PROGRAMMING LANGUAGES</pattern>
+<template>Java , python, C#, C.</template>
 </category>
 </aiml>

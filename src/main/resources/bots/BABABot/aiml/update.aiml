@@ -2,13 +2,13 @@
 <aiml>
 <!-- File: update.aiml -->
 <!-- Author: Dr. Richard S. Wallace -->
-<!-- Last modified: February 20, 2013 -->
+<!-- Last modified: March 10, 2018 -->
 <!--  -->
-<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!-- This AIML file is part of the BABABOT 0.0.4 chat bot knowledge base. -->
 <!--  -->
-<!-- The SUPER brain is Copyright &copy; 2013 by ALICE AI Foundation. -->
+<!-- The BABABOT brain is Copyright &copy; 2018 by ALICE AI Foundation. -->
 <!--  -->
-<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- The BABABOT brain is released under the terms of the GNU Lesser General -->
 <!-- Public License, as published by the Free Software Foundation. -->
 <!--  -->
 <!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
@@ -19,7 +19,7 @@
 <template>S.U.P.E.R. AIML Bot version 0.0.4</template>
 </category>
 <category><pattern>BUILD</pattern>
-<template>Wed Feb 20 18:10:39 EST 2013</template>
+<template>Sat Mar 10 16:53:06 IST 2018</template>
 </category>
 <category><pattern>DELEVLOPMENT ENVIRONMENT</pattern>
 <template>Program AB 0.0.4.2 beta -- AI Foundation Reference AIML 2.0 implementation</template>
