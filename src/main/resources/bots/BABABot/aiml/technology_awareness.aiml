@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-<!-- This AIML file is part of the BABABOT 0.0.4 chat bot knowledge base. -->
+<!-- File: technology_awareness.aiml -->
+<!-- Author: sairam -->
+<!-- Last modified: March 28, 2018 -->
 <!--  -->
-<!-- The BABABOT brain is Copyright & -->
+<!-- This AIML file is part of the BABABOT 0.0.1 chat bot knowledge base. -->
+<!--  -->
+<!-- The BABABOT brain is Copyright &copy; 2018 by BABABot. -->
 <!--  -->
 <!-- The BABABOT brain is released under the terms of the GNU Lesser General -->
 <!-- Public License, as published by the Free Software Foundation. -->
@@ -10,7 +14,7 @@
 <!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
 <!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
 <!--  -->
-<!-- For more information see http://www.alicebot.org -->
+<!-- For more information see  -->
 <category><pattern>NAME PROGRAMMING LANGUAGES</pattern>
 <template>Java , python, C#, C.</template>
 </category>

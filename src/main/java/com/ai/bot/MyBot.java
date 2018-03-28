@@ -26,6 +26,8 @@ public class MyBot {
 		
 		bot.brain.nodeStats();
 		MagicBooleans.trace_mode = false;
+		MagicBooleans.enable_external_sets = true;
+//		MagicBooleans.jp_morphological_analysis = true;
 		 
 		
 		

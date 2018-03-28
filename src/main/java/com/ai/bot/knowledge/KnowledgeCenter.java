@@ -4,6 +4,7 @@ import java.io.File;
 
 import org.alicebot.ab.Bot;
 import org.alicebot.ab.Chat;
+import org.alicebot.ab.MagicStrings;
 
 public class KnowledgeCenter {
 
@@ -13,9 +14,9 @@ public class KnowledgeCenter {
 		Bot bot = new Bot("BABABot", root.getAbsolutePath()+"/src/main/"+ "resources");
 		//		bot.setAllPaths("./recources", "bots");
 
+//		MagicStrings.programNameVersion = "SAIRAM";
 
-
-		Chat chatSession =  new Chat(bot, "BABABot");
+//		Chat chatSession =  new Chat(bot, "BABABot");
 		
 		
 		
