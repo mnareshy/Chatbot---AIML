@@ -16,16 +16,17 @@ public class MyBot {
 		
 		File root = new File("");
 		
-		Bot bot = new Bot("BABABot", root.getAbsolutePath()+"/src/main/"+ "resources");
+//		Bot bot = new Bot("BABABot", root.getAbsolutePath()+"/src/main/"+ "resources");
 //		bot.setAllPaths("./recources", "bots");a 
 		
-
+		Bot bot = new Bot("TestBot", root.getAbsolutePath()+"/src/main/"+ "resources");
 		
-		Chat chatSession =  new Chat(bot, "BABABot");
+//		Chat chatSession =  new Chat(bot, "BABABot");
+		Chat chatSession =  new Chat(bot, "TestBot");
 		
 		
 		bot.brain.nodeStats();
-		MagicBooleans.trace_mode = false;
+		MagicBooleans.trace_mode = true;
 		MagicBooleans.enable_external_sets = true;
 //		MagicBooleans.jp_morphological_analysis = true;
 		 
@@ -36,7 +37,7 @@ public class MyBot {
 		
 		boolean botAwake = true;
 		
-		System.out.println("BABABOT : "+"How Can I Help You :");		
+		System.out.println("TestBot : "+"How Can I Help You :");		
 		while(botAwake){
 			
 			

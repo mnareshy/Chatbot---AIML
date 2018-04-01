@@ -1,0 +1,8 @@
+url:
+name:TestBot
+email:
+gender:male
+botmaster:sairam
+organization:TestBot
+version:0.0.1
+
