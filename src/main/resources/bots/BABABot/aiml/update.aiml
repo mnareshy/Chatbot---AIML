@@ -19,9 +19,9 @@
 <template>S.U.P.E.R. AIML Bot version 0.0.4</template>
 </category>
 <category><pattern>BUILD</pattern>
-<template>Wed Mar 28 09:35:36 IST 2018</template>
+<template>Wed Mar 28 23:17:58 IST 2018</template>
 </category>
 <category><pattern>DELEVLOPMENT ENVIRONMENT</pattern>
-<template>SAIRAM</template>
+<template>Program AB 0.0.4.2 beta -- AI Foundation Reference AIML 2.0 implementation</template>
 </category>
 </aiml>

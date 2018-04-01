@@ -17,7 +17,7 @@ public class MyBot {
 		File root = new File("");
 		
 		Bot bot = new Bot("BABABot", root.getAbsolutePath()+"/src/main/"+ "resources");
-//		bot.setAllPaths("./recources", "bots");
+//		bot.setAllPaths("./recources", "bots");a 
 		
 
 		
@@ -36,9 +36,10 @@ public class MyBot {
 		
 		boolean botAwake = true;
 		
+		System.out.println("BABABOT : "+"How Can I Help You :");		
 		while(botAwake){
 			
-			System.out.println("BABABOT : "+"How Can I Help You :");
+			
 			input = IOUtils.readInputTextLine();
 			
 			if((input == null) && (input.length() < 1))
@@ -58,6 +59,7 @@ public class MyBot {
 //			System.out.println(input);
 			
 			System.out.println("BABABOT : " + botResponse);
+			System.out.println("You : " );
 			
 			
 		}

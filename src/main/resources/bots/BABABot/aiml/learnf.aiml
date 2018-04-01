@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: learnf.aiml -->
+<!-- Author: sairam -->
+<!-- Last modified: March 28, 2018 -->
+<!--  -->
+<!-- This AIML file is part of the BABABOT 0.0.1 chat bot knowledge base. -->
+<!--  -->
+<!-- The BABABOT brain is Copyright &copy; 2018 by BABABot. -->
+<!--  -->
+<!-- The BABABOT brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see  -->
+<category><pattern>IS A GLASS A BEER</pattern>
+<template>Yes.</template>
+</category>
+<category><pattern>IS A GG A JJ</pattern>
+<template>Yes.</template>
+</category>
+<category><pattern>WHAT IS A GLASS</pattern>
+<template>A beer.</template>
+</category>
+<category><pattern>WHAT IS A GG</pattern>
+<template>A JJ.</template>
+</category>
+<category><pattern>WHAT IS A JJ</pattern>
+<template>A gg.</template>
+</category>
+<category><pattern>WHAT IS A BEER</pattern>
+<template>A glass.</template>
+</category>
+</aiml>

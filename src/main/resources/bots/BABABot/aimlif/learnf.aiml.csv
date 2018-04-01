@@ -1,0 +1,6 @@
+0,IS A GLASS A BEER,*,*,Yes.,learnf.aiml
+0,IS A GG A JJ,*,*,Yes.,learnf.aiml
+0,WHAT IS A GLASS,*,*,A beer.,learnf.aiml
+0,WHAT IS A GG,*,*,A JJ.,learnf.aiml
+0,WHAT IS A JJ,*,*,A gg.,learnf.aiml
+0,WHAT IS A BEER,*,*,A glass.,learnf.aiml
