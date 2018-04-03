@@ -2,7 +2,7 @@
 <aiml>
 <!-- File: Sample.aiml -->
 <!-- Author: sairam -->
-<!-- Last modified: April 01, 2018 -->
+<!-- Last modified: April 03, 2018 -->
 <!--  -->
 <!-- This AIML file is part of the TESTBOT 0.0.1 chat bot knowledge base. -->
 <!--  -->
@@ -18,12 +18,13 @@
 <category><pattern>HELLO DUDE</pattern>
 <template>Hello User!</template>
 </category>
-
-<category><pattern>hi</pattern>
+<category><pattern>HI</pattern>
 <template>Hello User!</template>
 </category>
-
 <category><pattern>A * IS A *</pattern>
 <template>When a <star index="1"/> is not a <star index="2"/>?</template>
+</category>
+<category><pattern>SEARCH FOR *</pattern>
+<template>Here is what I found on Google. <oob><jenkins><star/></jenkins></oob></template>
 </category>
 </aiml>

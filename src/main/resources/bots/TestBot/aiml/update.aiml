@@ -2,7 +2,7 @@
 <aiml>
 <!-- File: update.aiml -->
 <!-- Author: sairam -->
-<!-- Last modified: April 01, 2018 -->
+<!-- Last modified: April 03, 2018 -->
 <!--  -->
 <!-- This AIML file is part of the TESTBOT 0.0.1 chat bot knowledge base. -->
 <!--  -->
@@ -16,7 +16,7 @@
 <!--  -->
 <!-- For more information see  -->
 <category><pattern>BUILD</pattern>
-<template>Sun Apr 01 18:55:01 IST 2018</template>
+<template>Tue Apr 03 10:00:56 IST 2018</template>
 </category>
 <category><pattern>DELEVLOPMENT ENVIRONMENT</pattern>
 <template>Program AB 0.0.4.2 beta -- AI Foundation Reference AIML 2.0 implementation</template>

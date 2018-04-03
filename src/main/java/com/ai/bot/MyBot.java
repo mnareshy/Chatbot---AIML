@@ -53,8 +53,19 @@ public class MyBot {
 			
 //			chatSession.chat();
 			
+			
+			
 			botResponse = chatSession.multisentenceRespond(input);
 //			History<String>  history = chatSession.inputHistory;
+			
+			if(botResponse.contains("<oob>")){
+				
+				
+				botResponse = "Google Result for " + botResponse.replaceAll("<oob>", "").replaceAll("</oob>", "") ;
+				
+			}
+				
+				
 			
 //			history.printHistory();
 //			System.out.println(input);
